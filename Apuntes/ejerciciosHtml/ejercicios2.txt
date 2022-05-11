@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+    </head>
+    
+    <body>
+        <p><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore</b> magna aliqua.
+            Elementum nisi quis eleifend quam. Nec nam aliquam sem et</p><br>
+
+            <p>ortor consequat id. <u>Aliquam faucibus purus in massa tempor
+            nec feugiat nisl.</u> Ut placerat orci nulla pellentesque dignissim
+            enim sit amet. Purus viverra accumsan in nisl nisi scelerisque eu</p><br>
+
+            <p>ultrices. Et malesuada fames ac turpis egestas maecenas
+            pharetra convallis. <i>Venenatis cras sed felis eget velit. Leo integer
+            malesuada nunc</i> vel risus commodo viverra maecenas accumsan.</p><br>
+
+            <h1>title</h1>
+            <p>Neque gravida in fermentum et sollicitudin ac orci phasellus
+            egestas. Blandit libero volutpat sed cras ornare arcu. Risus
+            pretium quam vulputate dignissim suspendisse in est ante in.</p><br>
+
+            <p>Consectetur <small>adipiscing elit pellentesque</small> habitant morbi
+            tristique. Eget dolor morbi non arcu risus quis varius quam. Eget
+            felis eget nunc lobortis mattis aliquam faucibus. Interdum velit</p><br>
+
+            <p>laoreet id donec ultrices tincidunt arcu. Elit sed vulputate mi sit
+            amet mauris. Dolor <big>purus non enim praesent elementum</big>
+            facilisis leo vel fringilla. Gravida dictum fusce ut placerat orci</p><br>
+
+            <p>Aliquet sagittis <sub>solim</sub>id consectetur purus ut faucibus pulvinar 
+                elementum. Cras ornare arcu dui vivamus.
+                Consequat semper viverra nam libero justo laoreet sit amet. Phasellus faucibus</p><br>
+
+            <p>Ultricies integer quis auctor elit sed vulputate mi sit amet. Porttitor lacus luctus 
+                accumsan <sup>parter</sup>tortor posuere ac.
+                 Dolor sed viverra ipsum nunc aliquet bibendum enim.</p> <br>
+
+            <p>Neque gravida in fermentum et sollicitudin ac orci phasellus egestas. 
+                Nibh cras <mark>pulvinar</mark> mattis nunc 
+                sed blandit libero volutpat. Nunc faucibus a pellentesque sit.</p><br>
+
+            <p>Ut <strike>tristique et egestas quis ipsum suspendisse</strike> ultrices.
+                Adipiscing bibendum est ultricies integer quis auctor elit sed
+                vulputate. At tempor commodo ullamcorper a lacus vestibulum
+            </p><br>
+
+            <p>sed arcu non. Id porta nibh venenatis cras. Sagittis purus sit
+                amet volutpat.<pre> <strong>Odio eu feugiat pretium</strong>
+                     nibh ipsum </pre>consequat.
+                Penatibus et magnis dis parturient montes. Pretium lectus quam
+            </p><br>
+
+            <p>id leo in <b style="color:red;">vitae. Pulvinar neque</b> laoreet suspendisse interdum
+                consectetur. Ut porttitor leo a diam sollicitudin tempor id eu.
+                Arcu felis bibendum ut tristique et. Eget magna fermentum
+            </p><br>
+
+    
+
+        
+    </body>
+
+</html>
