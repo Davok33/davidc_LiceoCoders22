@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>
+        Especifique que la transición del elemento <div> debe tener una curva de velocidad de "entrada y salida".
+    </h1>
+    <div id="ejDos">This is a div</div>
+</body>
+
+<style>
+    #ejDos {
+      width: 100px;
+      height: 100px;
+      background: rgb(0, 255, 34);
+      transition: width 3s;
+      transition-timing-function: ease-in-out;
+    }
+    
+    #ejDos:hover {
+      width: 300px;
+    }
+    </style>
+</html>
